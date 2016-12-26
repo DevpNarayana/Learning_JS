@@ -1,0 +1,1 @@
+prompt("Tell me how are you?", " ");
